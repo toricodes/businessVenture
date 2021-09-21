@@ -1,0 +1,42 @@
+struct BusinessInfo
+
+
+
+
+
+
+
+struct Econ
+
+
+
+
+
+
+
+
+
+
+
+struct Marketing
+
+
+
+
+
+
+
+
+
+
+
+struct Finance
+
+
+
+
+
+
+
+
+void 
